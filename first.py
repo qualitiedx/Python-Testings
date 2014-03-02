@@ -5,4 +5,3 @@ def changer(a,b):
 x = 1
 L = [1,2]
 changer(x,L)
-print x,L
